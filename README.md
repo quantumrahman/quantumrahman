@@ -16,17 +16,17 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
 <br clear="both">
 
-<p align="left">A passionate Bangladeshi developer currently working with modern web technologies. I love building real-world applications and solving practical problems through code. My main goal is to become a skilled software engineer and create impactful digital products that make people's lives easier. Right now, I’m focused on full stack web development and continuously exploring new technologies to improve my skills.</p>
+<p align="center">A passionate Bangladeshi developer currently working with modern web technologies. I love building real-world applications and solving practical problems through code. My main goal is to become a skilled software engineer and create impactful digital products that make people's lives easier. Right now, I’m focused on full stack web development and continuously exploring new technologies to improve my skills.</p>
 
 ###
 
-<p align="left">I’m currently working on a project called SkillSphere with Better Auth integration and modern full stack technologies.<br>I'm currently learning Backend Development with Node.js, Express.js, and MongoDB while exploring scalable server-side architecture.<br>In my free time I explore new technologies, build side projects, and improve my problem-solving skills through real-world development practice.</p>
+<p align="center">I’m currently working on a project called SkillSphere with Better Auth integration and modern full stack technologies.<br>I'm currently learning Backend Development with Node.js, Express.js, and MongoDB while exploring scalable server-side architecture.<br>In my free time I explore new technologies, build side projects, and improve my problem-solving skills through real-world development practice.</p>
 
 ###
 
@@ -62,14 +62,14 @@
 
 ###
 
-<h3 align="left">Fun Facts</h3>
+<h3 align="center">Fun Facts</h3>
 
 ###
 
-<p align="left">💻 Love turning ideas into real products<br>🚀 Always curious about new tech<br>🎯 Focused on growth and consistency<br>🚤 I love travelling</p>
+<p align="center">💻 Love turning ideas into real products<br>🚀 Always curious about new tech<br>🎯 Focused on growth and consistency<br>🚤 I love travelling</p>
 
 ###
 
-<p align="center">Learn. Build. Improve.</p>
+<h3 align="center">Learn. Build. Improve.</h3>
 
 ###
